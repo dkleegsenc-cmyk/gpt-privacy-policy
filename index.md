@@ -35,9 +35,9 @@ Reasonable administrative and technical measures are used to protect data transm
 
 Contact
 
-Contact: [이름/팀]
+Contact: dkleegsenc@gmail.com
 
-Email: [이메일]
+Email: dkleegsenc@gmail.com
 
 Effective Date
 Effective as of: 2025-12-15
